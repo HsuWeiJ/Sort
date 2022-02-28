@@ -35,6 +35,10 @@ int main(void)
     push(12);
     push(9);
     push(17);
+    push(13);
+    push(10);
+    push(16);
+    push(14);
     push(114);
     display(head);
     quickSort(&head);
